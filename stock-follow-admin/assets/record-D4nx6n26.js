@@ -1,1 +1,0 @@
-import{P as o}from"./index-BrDgcLBL.js";function t(e){return o({url:"/follow/record/list",method:"post",data:e})}function c(e){return o({url:"/follow/record/coerceOver",method:"post",data:e,headers:{"Content-Type":"application/x-www-form-urlencoded"}})}export{c,t as l};
